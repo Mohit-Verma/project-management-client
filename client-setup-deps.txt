@@ -1,0 +1,5 @@
+npm add @mui/material @emotion/react @emotion/styled @mui/x-data-grid lucide-react numeral date-fns axios recharts react-dnd react-dnd-html5-backend gantt-task-react
+
+npm add -D @types/node @types/uuid @types/numeral
+npm i -D prettier prettier-plugin-tailwindcss
+npm i -D tailwind-merge

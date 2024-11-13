@@ -2,6 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "courseUrl": "https://www.youtube.com/watch?v=KAV8vo7hGAo",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
